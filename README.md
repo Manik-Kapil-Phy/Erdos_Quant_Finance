@@ -1,4 +1,4 @@
-# Github Repository for Quantitative Finance Erdos Institute Course.
+# Github Repository for the Quantitative Finance course at Erdos Institute Course.
 ### Manik Kapil
 In these Repository I have added four files which are four mini projects for my Quantitative Finance Course
 The first one deal with portfolios and how you create a low risk and high risk one.
